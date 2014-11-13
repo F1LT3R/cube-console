@@ -1,9 +1,9 @@
 {
   "name": "cube-console",
   "bin": {
-    "cube-ascii": "index.js"
+    "cube-console": "index.js"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Animates an ASCII Art 3D cube in your console.",
   "main": "index.js",
   "author": "Alistair MacDonald <al@pwn.io>",
