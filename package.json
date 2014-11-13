@@ -1,0 +1,19 @@
+{
+  "name": "cube-console",
+  "bin": {
+    "cube-ascii": "index.js"
+  },
+  "version": "0.0.1",
+  "description": "Animates an ASCII Art 3D cube in your console.",
+  "main": "index.js",
+  "author": "Alistair MacDonald <al@pwn.io>",
+  "email": "al@pwn.io",
+  "license": "MIT",
+  "dependencies": {
+    "ansi": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/f1lt3r/cube-console.git"
+  }
+}
